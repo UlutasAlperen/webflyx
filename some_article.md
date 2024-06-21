@@ -1,0 +1,1 @@
+ piece of writing other than fiction or poetry that forms an independent part of a publication (as a magazine) 3. : a word (as a, an, or the) used with a noun to limit it or make it clearer. 4. : a member of a class of things.
