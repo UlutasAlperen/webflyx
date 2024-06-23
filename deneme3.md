@@ -1,4 +1,0 @@
-bu 
-sadece
-bir 
-denemedir
