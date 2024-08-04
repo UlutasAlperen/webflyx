@@ -1,0 +1,3 @@
+TCP (Transmission Control Protocol), TCP/IP protokol takımının taşıma katmanı protokollerinden birisidir. Son güncellemesi Ağustos 2022 tarihi itibarıyla RFC 9293 [1] içerisinde tanımlanmıştır.
+
+Gelişmiş bilgisayar ağlarında paket anahtarlamalı bilgisayar iletişiminde kayıpsız veri gönderimi sağlayabilmek için TCP protokolü yazılmıştır. HTTP, HTTPS, POP3, SSH, SMTP, Telnet ve FTP gibi internetin kullanıcı açısından en popüler protokollerinin veri iletimi TCP vasıtasıyla yapılır. 
